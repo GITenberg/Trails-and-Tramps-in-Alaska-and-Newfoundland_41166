@@ -1,0 +1,29 @@
+_repo: Trails-and-Tramps-in-Alaska-and-Newfoundland_41166
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41166-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Thomas, William S.
+    birthdate: 1858
+    gutenberg_agent_id: '41016'
+    url: http://www.gutenberg.org/2009/agents/41016
+description: ''
+gutenberg_issued: '2012-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41166'
+  lccn: '13010846'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Newfoundland and Labrador -- Description and travel'
+- !lcsh 'Birds'
+- !lcsh 'Alaska -- Description and travel'
+- !lcsh 'Hunting -- Alaska'
+- !lcc 'SK'
+title: Trails and Tramps in Alaska and Newfoundland
+url: http://www.gutenberg.org/ebooks/41166
